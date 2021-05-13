@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+text {
+  font-size: 18px;
+  //font-family: 'Poppins', sans-serif;
+
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
